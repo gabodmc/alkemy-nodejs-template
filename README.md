@@ -1,4 +1,4 @@
-# Backend Node Template
+# BASDASD
 
 ## ✅ Primero lo primero: instalar las dependencias iniciales del proyecto antes de trabajar:
 ```
@@ -8,7 +8,7 @@ npm install
 Utilizar la versión de Node v14.x
 
 ## 💡 El proyecto utliza Sequelize como ORM. Comandos utiles del CLI:
-
+Pongo otro cambio
 ### Como generar un modelo desde cero
 ```
 npx sequelize model:generate --name Ejemplo --attributes ejemplo:string
